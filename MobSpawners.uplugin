@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.5",
+	"VersionName": "1.0.0",
 	"FriendlyName": "MobSpawners",
-	"Description": "MobSpawnerss",
+	"Description": "Spawners Mob's",
 	"Category": "Modding",
 	"CreatedBy": "Solat228",
 	"CreatedByURL": "",
@@ -14,11 +14,9 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"SemVersion": "1.0.5",
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.3.0",
 			"Enabled": true
 		}
 	]
