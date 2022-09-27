@@ -1,11 +1,12 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.0",
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"SemVersion": "2.0.0",
 	"FriendlyName": "MobSpawners",
-	"Description": "Spawners Mob's",
+	"Description": "Buildable machines that can spawn the fauna of MASSAGE-2(A-B)b",
 	"Category": "Modding",
-	"CreatedBy": "Solat228",
+	"CreatedBy": "Robb, Solat228",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -17,7 +18,8 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"Enabled": true
+			"Enabled": true,
+			"SemVersion": "^3.3.2"
 		}
 	]
 }
