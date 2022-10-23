@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.0",
-	"SemVersion": "2.0.0",
-	"FriendlyName": "MobSpawners",
+	"VersionName": "2.0.1",
+	"SemVersion": "2.0.1",
+	"FriendlyName": "Mob Spawners",
 	"Description": "Buildable machines that can spawn the fauna of MASSAGE-2(A-B)b",
 	"Category": "Modding",
 	"CreatedBy": "Robb, Solat228",
