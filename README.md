@@ -10,6 +10,8 @@ Highly configurable mob spawners that can spawn the fauna of MASSAGE-2(A-B)b.
 
 ## Features
 
+This screenshot is out of date, the Cliff and Radioactive hog are also available.
+
 ![Available Mobs edited screenshot](https://i.imgur.com/0CS7hDG.png)
 
 - Progress in a MAM Tree to construct new types of mob spawners
