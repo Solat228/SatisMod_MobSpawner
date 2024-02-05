@@ -40,8 +40,7 @@ This screenshot is out of date, the Cliff and Radioactive hog are also available
 ## Getting Started
 
 You should check out the mod's configuration options to change the balance to your liking.
-You can access them from the main menu,
-or the Mod Configs button on the pause menu.
+You can access them from the [Mod Savegame Settings menu](https://docs.ficsit.app/satisfactory-modding/latest/ForUsers/ConfiguringMods.html#_mod_savegame_settings).
 
 You can unlock spawners for different creatures in the "Mob Spawners" MAM tree.
 Once you've unlocked it, you can build it from the Spawners category of the Build Gun.
@@ -65,7 +64,7 @@ You'll have to enable the engine "Editor Scripting" plugin to use them.
 
 Original Mod Author's Discord: Solat#5057
 
-Update 6 and Editor Utility generated content overhaul: Robb#6731
+Current mainainter since Update 6 and Editor Utility generated content overhaul: Robb#6731 _(If you enjoy my work, please consider my [completely optional tip jar](https://ko-fi.com/robb4).)_
 
 For some help in creating the mod, thanks to: MayorAquila#7740
 
