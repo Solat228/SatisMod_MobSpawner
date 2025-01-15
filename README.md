@@ -1,5 +1,9 @@
 # Mob Spawners
 
+**Multiplayer compatible!**
+
+_If you enjoy my work, please consider donating to my [completely optional tip jar](https://ko-fi.com/robb4)._
+
 Highly configurable mob spawners that can spawn the fauna of MASSAGE-2(A-B)b.
 
 ![MobSpawner Screenshot](https://i.imgur.com/NeFSKWj.jpg)
@@ -10,7 +14,7 @@ Highly configurable mob spawners that can spawn the fauna of MASSAGE-2(A-B)b.
 
 ## Features
 
-This screenshot is out of date, the Cliff and Radioactive hog are also available.
+This screenshot is out of date - the Cliff Hog, Radioactive Hog, Elite Crab Hatcher, and Beetle are also available.
 
 ![Available Mobs edited screenshot](https://i.imgur.com/0CS7hDG.png)
 
