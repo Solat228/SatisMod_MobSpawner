@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.3.0",
-	"SemVersion": "2.3.0",
+	"VersionName": "2.4.0",
+	"SemVersion": "2.4.0",
 	"FriendlyName": "Mob Spawners",
 	"Description": "Buildable machines that can spawn the fauna of MASSAGE-2(A-B)b",
 	"Category": "Modding",
@@ -19,8 +19,8 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.9.0"
+			"SemVersion": "^3.11.1"
 		}
 	],
-	"GameVersion": ">=383729"
+	"GameVersion": ">=416835"
 }
